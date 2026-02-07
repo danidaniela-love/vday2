@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+</html>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"
+ <title>Vrei să ieșim pe 14 feb?</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <img
+        class="img"
+        src="https://media.tenor.com/TUVAE2M_wz4AAAAi/chubby-tonton.gif"
+        alt="tonton"
+      />
+      <p class="title">Vrei să ieșim 14 feb?</p>
+      <div class="buttons">
+        <button type="button" class="btn btn-yes">Da</button>
+        <button type="button" class="btn btn-no">Nu</button>
+      </div>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
